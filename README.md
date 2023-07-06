@@ -16,6 +16,6 @@ pip install -r requirements.txt
 
 - Connect the required notebook to the created venv & run
 
-## contribution
+## Contribution
 
 Feel free to raise pull requests with any beginner-level to intermediate pet projects that would help people learn CNNs.
