@@ -44,8 +44,8 @@ pip install -r requirements.txt
 
 ## Run in google colab  <a id="runincolab"></a>
 
-- select the notebook that you want to run.
-- if there is a dataset given for the notbook, download them and upload it to your google drive. 
+- Select the notebook that you want to run.
+- If there is a dataset given for the notbook, download them and upload it to your google drive. 
 - Click on open with colab button on the top. 
 - Update the data source if it's required and run!
 
