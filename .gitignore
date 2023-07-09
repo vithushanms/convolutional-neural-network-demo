@@ -1,2 +1,4 @@
 convolutional-neural-networks/*
 .venv/*
+backups/*
+datasets/*
